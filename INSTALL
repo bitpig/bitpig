@@ -1,0 +1,9 @@
+Building Bitpig
+
+See doc/readme-qt.rst for instructions on building Bitpig-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Bitpig.
+
+See doc/build-*.txt for instructions on building bitpigd,
+the intended-for-services, no-graphical-interface, reference
+implementation of Bitpig.
